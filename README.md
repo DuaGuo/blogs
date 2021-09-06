@@ -1,2 +1,2 @@
 # blogs
-The technical blog
+The technical blogs
